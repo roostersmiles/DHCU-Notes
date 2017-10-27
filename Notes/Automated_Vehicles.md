@@ -1,0 +1,46 @@
+- developper in mobile interested in connecting people globally. Open source
+- allow third parties to build software ie app economy
+- worked with Ford on connected car
+- largest mobile device you will ever buy is a car, open source on car
+- apple and google. Android auto apple car play
+- answers what happens when questions
+- 5 levels of automation 0 human, 1 assist, 2 partial, conditional, 4 high 5 automated
+- do people want to drive? 
+- testing drivers reactions after 15 min stop paying attention and trust
+- take over not ready at 60kph 
+- OEM plans level 4/5 of automated 2020-2021 for most fully adoptable
+- half tech provider qnx/blackberry
+- much happenicng here us not tracking
+- first car crash 1869 steam, pedestrian 18.. nA trolly
+- who counts vehicle death in top 10
+- 1.25 M, not incl injuries
+- 2 planes falling ever week all year in US
+- human driving the new smoking - gabr klein
+- 260 others, working on other areas of transport - reactive stop sogns, what if... What will happen when?
+- interest and $$ plus saftey and security
+- what do we do about it?
+- 2014 timeline, 2026 all new cars, 2070 global traffic
+- story about us senator in DC and embackment
+- mapping and infrastructure in specified markets only small areas, fleet basis, cost $$$ - start of end of individually owned cars
+- argues safety not driver for business case for time..... Bus?
+- machine learning, update and teach it
+- ethical judgements- trolly car problem- not illegal choice sad but not illegal, shpuldnt mater between human and car, no right answer
+- car crash or he killed the person, language use loose
+- miles driven not needed model for efficacy? Learn over a set doesnt need to relearn transfer
+- autonomous truck - budwiser
+- min hours driven because of tired, autonomous inprove supply chain, - theft???
+- shared autonomous- debate, cost of ownership, 90% shared 2030, movement of cars and people, business focus
+- passenger economy
+- connectedness, urbanization, mechanical, regulations
+- unprepared- all laws predicated on someone in control, 
+- DMV- know how to regulate ppl, no idea about AV, 
+- need education to have these discussions
+- rights of way- right to drive, service not regulated as a service, right or previlidge to be a passenger?
+- not just surface but above road, roof to roof vehicle - in vegas
+- av point to point 3-5 people, roads and airways
+- insurance - business people, hoe to manage risk
+- set asides- do we create lanes where they can travel, NY two streets
+- jobs- taxi, truck? - manage angles, what will happen when it arrives, how do we debate this?
+- federal reach 
+- privacy- data creation, who owns, generated and opt out
+- repair? Software based.
