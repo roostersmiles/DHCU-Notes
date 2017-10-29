@@ -1,4 +1,5 @@
 #Initial Notes from Review of Readings
+
 -TA as a tool
 -over quantification
 -bias of the analyst
