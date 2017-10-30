@@ -51,5 +51,22 @@
 - be leary of letting tech drive analysis, find tool that helps solve core question,
 -cool, to see patterns over a large body, a distribution over distributions, machine looking at each word in relationship to others within doc and across documents/corpus
 - pull them out and assemble them, - tokens
+- what are the buckets of words? concepts
+- choose number of buckets, only a problem if you beleive there is an answer, proportions make mathematic sense
+- need to say # an opportunity, what does it look like if we limit #, 
+- collidescope, reading of the material, helped 
+- Jstor articles 1935-2010 - Aaron Swartz, activist, invented RSS format, political arrest, The internets own boy
+- Jstor impliment a thing call data for research - could dowload 20K in a particular format - article as a bag of words... - takes out of syntax context
+- cluster of content words - numbers scaled to 100, inflection points, spikes with generational turnover
+- patterns of computational thinking ahead of infrastructure available - can see with topic analysis and use of words
+- supervised vs. unsupervised - topic modelling = unsupervised, not sure what partially supervised would be. 
+
+##DHbox R
+- gist.github.com/shawngraham - run to install packages (Not working for me atm, Shawn says slow wait)
+- joundell.net - can pull annotations for hypothesis using API once logged in.
+- Can export as a .csv file
+- Using annotations from hypothesis - removed URL and meta data, kept date and text only.
+- interpretive decisions made in using and working with data, make note of why and hope to acheive.
+- in DH box need to load file into file manager- if on own PC can use from PC. 
 
 
