@@ -18,5 +18,6 @@
 - process of identifying patterns and trends in text
 - Can it be done manually? - ENG Lit, 
 - something about defining the data set, what is the source a sample universe
+- GROUP: Text analysis is a process that allows for information/significance of meaning to be apprehended from data as a means to track, identify & compare patterns and trends to work towards a conclusion.
 
 
