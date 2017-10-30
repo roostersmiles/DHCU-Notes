@@ -68,5 +68,7 @@
 - Using annotations from hypothesis - removed URL and meta data, kept date and text only.
 - interpretive decisions made in using and working with data, make note of why and hope to acheive.
 - in DH box need to load file into file manager- if on own PC can use from PC. 
-
-
+- stop word list = words to skip, does so by comparing lists
+- LDA - latent dirlichet allocation - formal name for algorithm being used, know which one is used
+- know when it is done by triangle instead of stop sign in run window
+- 
