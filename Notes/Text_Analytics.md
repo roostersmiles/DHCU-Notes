@@ -42,5 +42,14 @@
 - there is a manual with background info for more information
 - doc titles with numbering or dares will allow for a timeseries graph
 - 
+##Lecture
+- Mining the dispatch, Newspaper from 1860-165 - civil war, character rec to turn images to text, corrected it.
+- computer science indexing - topic modelling, put text in, identifies topics and can trend over time
+- Mallet - command line, to feed data into it, started using it for everything
+- Scott Winegard and Ian Milligan - lead to book
+- once one person writes it down, becomes easier, fashion in tools, 'out of fashion' applying too far, few cases of meaningful ways
+- be leary of letting tech drive analysis, find tool that helps solve core question,
+-cool, to see patterns over a large body, a distribution over distributions, machine looking at each word in relationship to others within doc and across documents/corpus
+- pull them out and assemble them, - tokens
 
 
