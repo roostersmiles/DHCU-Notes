@@ -13,11 +13,15 @@
 ##In class notes - Oct 30th
 - text - more complicated than words
 - what can be included, our understanding different, unconcious knowledge
-- 
+
 ###defining text analysis
 - process of identifying patterns and trends in text
 - Can it be done manually? - ENG Lit, 
 - something about defining the data set, what is the source a sample universe
 - GROUP: Text analysis is a process that allows for information/significance of meaning to be apprehended from data as a means to track, identify & compare patterns and trends to work towards a conclusion.
+- discussion of what is data and the subjective/objective nature, 'well the data said this...'
+
+## Close Reading vs. Distant Reading
+- 
 
 
