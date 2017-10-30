@@ -71,4 +71,7 @@
 - stop word list = words to skip, does so by comparing lists
 - LDA - latent dirlichet allocation - formal name for algorithm being used, know which one is used
 - know when it is done by triangle instead of stop sign in run window
+- literate programming - built code into article text
+- R markdown - markdown doc embedded code, pull leacer to create PDF with code having run inside it and results displayed in text.
+- open digital archaeology textbook enviornment - example of this - PDF generate from same material
 - 
