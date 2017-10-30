@@ -36,6 +36,11 @@
 - Sentiment - database is important, source of analysis tool, semantic vector of a word, ratemyprof - context word about gender changes
 - ran 5-6, overall neutral, 
 -AntConc - tutorial on programming historian about how to use (words before and after, frequency)
+- Limitations across them, shiney hammer problem - frequency of use, how they graph together
+- corpus.byu.edu
+- voyant - McGill/Alberta co collaboration
+- there is a manual with background info for more information
+- doc titles with numbering or dares will allow for a timeseries graph
 - 
 
 
