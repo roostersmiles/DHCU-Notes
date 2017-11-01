@@ -1,4 +1,4 @@
-##Initial Notes from Review of Readings
+## Initial Notes from Review of Readings
 
 - TA as a tool
 - over quantification
@@ -10,28 +10,28 @@
 - importance of identifying the methodology used and filters/features of the tool in order to allow others to replicate.
 - Need for a benefits/drawbacks of different tools and identification of what cases they are best used for.
 
-##In class notes - Oct 30th
+## In class notes - Oct 30th
 - text - more complicated than words
 - what can be included, our understanding different, unconcious knowledge
 
-###defining text analysis
+### defining text analysis
 - process of identifying patterns and trends in text
 - Can it be done manually? - ENG Lit, 
 - something about defining the data set, what is the source a sample universe
 - GROUP: Text analysis is a process that allows for information/significance of meaning to be apprehended from data as a means to track, identify & compare patterns and trends to work towards a conclusion.
 - discussion of what is data and the subjective/objective nature, 'well the data said this...'
 
-###Close Reading vs. Distant Reading
+### Close Reading vs. Distant Reading
 - another difference between large scale and small scale? Volume? 
 - subjective vs. objective distinction - perception
 - anxiety of change - fomo, disciplined to think in certain ways, comfort level across disciplines, push against other ways of doing things
 - adaption - scrambling, broad definitions, 
 
-###Acivities
+### Acivities
 - counts - what is the use of this? random words?
 - functional vs. contextual words - frequency
 
-###Visualization
+### Visualization
 - Word cloud - larger word more frequently, lacks context
 - Sentiment - database is important, source of analysis tool, semantic vector of a word, ratemyprof - context word about gender changes
 - ran 5-6, overall neutral, 
@@ -42,7 +42,7 @@
 - there is a manual with background info for more information
 - doc titles with numbering or dares will allow for a timeseries graph
 - 
-##Lecture
+## Lecture
 - Mining the dispatch, Newspaper from 1860-165 - civil war, character rec to turn images to text, corrected it.
 - computer science indexing - topic modelling, put text in, identifies topics and can trend over time
 - Mallet - command line, to feed data into it, started using it for everything
@@ -61,7 +61,7 @@
 - patterns of computational thinking ahead of infrastructure available - can see with topic analysis and use of words
 - supervised vs. unsupervised - topic modelling = unsupervised, not sure what partially supervised would be. 
 
-##DHbox R
+## DHbox R
 - gist.github.com/shawngraham - run to install packages (Not working for me atm, Shawn says slow wait)
 - joundell.net - can pull annotations for hypothesis using API once logged in.
 - Can export as a .csv file
