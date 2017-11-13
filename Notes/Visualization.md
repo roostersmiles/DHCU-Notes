@@ -1,4 +1,14 @@
 ## Initial Notes from Readings
+- Similar to how text analysis rearranges text in order to better understand, we can rearrange visual information in the same way.
+- Frozen’s rather wide 2.24:1 aspect ratio easily allows for shots where both protagonists are framed in closeup. This is also true of two-shots among other groupings of character
+- A really interesting departure to focus on the pair. Even with love stories central to the plot of other 'Princess' movies, it is interesting that the relationship stories are still filmed similarly one-sided manner.
+- A really cool re-purposing or re-application of a tool originally built for something else.
+- historical innovation in animation as well as a consistent, calculated, family-oriented production strategy
+- I like this approach, taking a homogeneous corpus in terms of its genre or orientation while still varying to help highlight the changes and innovations over time.
+- freed from the burdening over-recognition of form
+- A reinterpretation of the format?
+- make an initial decision about which components to abstract
+- The role of the analyst/researcher is still vital to interpreting and presenting the data.
 ## Lecture Notes
 - word support to understand
 - entomology of a word before continuing, see/sight
