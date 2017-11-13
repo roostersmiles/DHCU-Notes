@@ -1,1 +1,51 @@
 ## Initial Notes from Readings
+## Lecture Notes
+- word support to understand
+- entomology of a word before continuing, see/sight
+- OED - 1893, 1996 - particular to time periods, 
+- not present to the site, act or process of making visual
+- mapping of discrete data to visual
+- tell you something but not whole picture
+- seeing something or making it visible
+- definitions: keep, change, how to achive
+	- when is something not data? 
+	- spatial data, 
+	- purposes of telling a story
+	- persuasve rhetoric
+	- summary of information - #PSL, understand
+	- exploring the data through visualisation
+	- black sheep connotation linked to words discussed
+	- unforming - undo or unanimate, less negative or reformation?
+	- transducing, transforming, 
+	- reformation
+	- which "type" just digital or visual forms of artwork, what you think impact definition
+	- nuance digital, complexity, screen shows it, digital not necessarily different
+- types: info, scientific, geovisualization
+- data: spatial, non-spatial, numeric, non-numeric
+
+- information - graphs, charts, zingchart.com
+	- week 1 - midterms? trend? not all information
+	- 
+- scientific - illustrat data, understand data, Doc - diagnosis, MRI, CT etc..., trained eye to identify
+- astronomers, eclypse, chromosone flash spectrum, chemicals that make up the sun
+- blue/red, hydrogen, yellow helium,
+- geovis - spatial and non-numeric
+- urban simulations, cartography, politics
+- Fox News poll, truncated y axis
+- google maps - traffic, transit
+- device predict sun, strology
+- example of visualization of Henry 8th based on skull
+- hair & colour based on literature
+- embedded in context - reaction to attacks on projects
+- Cathy Davidson - structure of Unis since 1860s mirrored labour & industrial, 
+- film studies, discussion driven dialogue in annotations
+- Zach Waylen, MJ visualizations, macro for ImageJ, 
+- mapping story archs, photography noise filter applied to words
+- sheet music - player pianos
+- computational musicology - language
+- into ABC notation
+- sample from model, will generate new music, probabilistically go together or those only always in format, platonic ideal or the iconic
+- data driven DJ vis & sonicifcation of data
+- vector based can be embedd in PDF, illustrator, - RAW graphicss
+- used for, book covers how change over time, test?
+- hours of reading to grasp quickly
