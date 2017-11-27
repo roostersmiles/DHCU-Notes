@@ -42,4 +42,30 @@ Public Spaces
 - imposter syndrom - credibility, presitge, professionalisation - box in to better define
 - use of shortcuts makes it inaccessible as well - final publication need to stay or be 'translated' to allow access
 - power dynamic - oral traditions/ history reliance on text - dominant narrative - value expert over experience
-- 
+### Activity
+- relatability - bring to their experience level, assimulate the knowledge
+- information to share but get information across without complexity. 
+### Compliance online
+- WCAG 2.0 - advisory body W3 for web content
+- align as many as possible, imprvements over time - changing
+- W3C guidance around coding, content oriented
+- up to developpers to be requirement but meaningful
+- interoperable/robust - consistency in interpretations
+- use of colour
+- captioned media - alternative format/text 
+### Activity #2
+### Social constructs
+- othering, intrisiclly different
+- perspective of contribution from inside - content inside container- where value lies, contribute to create knowldge in experience
+- differently abled - 
+- universal design, not every situation
+- thread within academis - use of laptops in the class room, power relationships
+- laptop free zones
+- building social communities on shared experiences
+- not disabled - differently abled
+- what is doing the disabiling? 
+- tendancy to build for others like us
+- ethical design manifesto - design firm, own copy - remixed
+- simple easy framework to make case - not complex issues
+- human experience not easily comparmentalized
+- inclusion is doing with, why justifies exclusion
