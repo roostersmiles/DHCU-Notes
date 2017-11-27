@@ -3,6 +3,10 @@
 o	What are the humanities?
 o	What is digital?
 o	A brief history of digital humanities
+- Who it is for?
+- What it is for?
+- Reading it for different purposes / playlist recommendations
+- Summaries of sections/themes
 #### Section I	Analyzing Content through Digital
 - Chapter 1	Visualization
 - Chapter 2	Mapping
