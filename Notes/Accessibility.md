@@ -69,3 +69,7 @@ Public Spaces
 - simple easy framework to make case - not complex issues
 - human experience not easily comparmentalized
 - inclusion is doing with, why justifies exclusion
+### FInal thoughts
+- approach in addressing - the New Education - Kathy Davidson - Haystak
+- group mutlidisciplanry
+- 
