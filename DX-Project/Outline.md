@@ -28,3 +28,14 @@ o	A brief history of digital humanities
 - Chapter 16	Crowds
 #### Section V	Appendix
 - Appendix A	Glossary of Terms
+
+###Pathways
+- For learners
+- For lecturers
+- Parts of this book relevent to XYZ
+
+###Within Chapter Headings
+- Exercises
+- Next adventure
+- tutorials/tools embedded
+- links to other sections
