@@ -29,12 +29,12 @@ o	A brief history of digital humanities
 #### Section V	Appendix
 - Appendix A	Glossary of Terms
 
-###Pathways
+### Pathways
 - For learners
 - For lecturers
 - Parts of this book relevent to XYZ
 
-###Within Chapter Headings
+### Within Chapter Headings
 - Exercises
 - Next adventure
 - tutorials/tools embedded
