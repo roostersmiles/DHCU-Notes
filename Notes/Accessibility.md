@@ -73,3 +73,8 @@ Public Spaces
 - approach in addressing - the New Education - Kathy Davidson - Haystak
 - group mutlidisciplanry
 - 
+## Shawn's Talk
+- ethical design
+- profhacker
+- crafting digital history - shorting out back
+- 
