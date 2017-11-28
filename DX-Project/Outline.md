@@ -32,6 +32,9 @@ o	A brief history of digital humanities
 - Chapter 16	Crowds
 #### Section V	Appendix
 - Appendix A	Glossary of Terms
+- Digital Humanities Project Examples by Discipline
+- Join the discussion - social media/slack
+- About the authors
 
 ### Pathways
 - For learners
