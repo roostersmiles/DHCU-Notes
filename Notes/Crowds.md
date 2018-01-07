@@ -8,6 +8,8 @@
 - ongoing debates on discussions tabs about key facts or issues in articles arising from NPOV requirement and interpretative nature of history
 - different from 'possessive individualism' contrasts history 
 - seems to me the most interested are self-selecting to monitor
+
+#### Annotations
 - roostersmiles, 1/3/2018 3:10:09 PM
 
 Perhaps another interesting source for analysis, this ongoing discussion behind the articles. I had never really considered looking beyond the information presented in the article. 
@@ -117,3 +119,9 @@ It might also be the nature of the work being done? I'd be interested to see if 
 - roostersmiles, 1/3/2018 2:54:49 AM
 
 or a sense of "otherness" as need be. 
+
+### scholz - Crowdmilking
+- crowdsourcing is bad for organised labour
+- contrast 'volunteer' contributors from Wiki with low paid groups 
+- relationship between owners of platforms and content creators, the risk/costs being taken on are different
+-
