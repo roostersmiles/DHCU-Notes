@@ -171,9 +171,28 @@ Virtual
 - Grinnell Beowulf - sense of community, open to future students
 - AnnoTate - training and hands on experience with transcribing and annotating, guide how to do it, giving people the skills
 - zooniverse - crowdsourcing projects arts/science
+### Labour
+- Care work of DH - Caretaker
+- Paige Morgan - not your DH fairy
+- Power, early industrial revolution
+- lack of regulation, if you dont we'll find someone else willing, worker not given much power
+- socio-economic, income gap, no other means, 
+- look at other shifts in labour force - invisible part of society doing work, behind a screen, invisible, paid less/not at all
+- gig economy, undermine an exisiting framework, 
+- intellectual property
+- peice of puzzle, assembeled outside realhm of knowledge
+- micropasts, little research tasks, transcribing things
+- work done within Uni, Prof puts name on it and $$ but students support and do work
+- facilitators, juggling balls, brining together, vital, but no credit
+- colonial baggage and structure hard to shake, menpower, women doing care and grads doing work
+- can you find who did the work?
+- tracing origins
+- give credit to those who contribute, annotations
 ### Formal network analysis - Shawn
 - network structures and what they do to things, 
 - well connected pages - more likely to be good, SEO in part based on this, not # of likes but well connected to well connected
 - signal of value, high betweeness centrality = Google
 - Facebook - can get strong interlinkages, some other links, triadic closure, closes possibilites for other knowledge?, 'weak ties' - in career searches is best, triadic eliminates this, meta networks, 
 - one mode vs two mode statistics - categorical difference, assumption, need same vs. different entities
+### Other
+- LyreBird - Radio Lab,
