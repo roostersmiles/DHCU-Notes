@@ -161,10 +161,19 @@ Virtual
 - posts things, like pizzagate - how to debunk, how do you read it, follow it backwards, 
 - what can be done? break networks
 - not nec instituitons that are credible but ways to confirm credibility, 
-### Formal network analysis
+- check previous work, read laterally, what other people say about the source, more informed paths
+- re-affirming beleifs, weaponization of information in terms of networking structure,
+- public humanities, need more people to think about it and how to engage, 
+- institutional platforms still matter, weight important
+- cascades in networks - how things are interconnected, different outcomes
+- how things connect and network dynamics to set off cascade, complex interactions can allow for huge transformation quickly
+### Education
+- Grinnell Beowulf - sense of community, open to future students
+- AnnoTate - training and hands on experience with transcribing and annotating, guide how to do it, giving people the skills
+- zooniverse - crowdsourcing projects arts/science
+### Formal network analysis - Shawn
 - network structures and what they do to things, 
 - well connected pages - more likely to be good, SEO in part based on this, not # of likes but well connected to well connected
 - signal of value, high betweeness centrality = Google
 - Facebook - can get strong interlinkages, some other links, triadic closure, closes possibilites for other knowledge?, 'weak ties' - in career searches is best, triadic eliminates this, meta networks, 
 - one mode vs two mode statistics - categorical difference, assumption, need same vs. different entities
-- 
