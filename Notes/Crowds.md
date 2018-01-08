@@ -138,6 +138,7 @@ or a sense of "otherness" as need be.
 Physical
 - Limitations - geographic location, social community 'group think', stereotype
 - Affordances - face-to-face, emotional expression, know is human
+
 Virtual
 - Limitations - non-humans, third actor (tech), quality of engagement dependant on platform, accessibility?, trolls, priveldge a part, digital literacy, developped by 'white dudes on the internet'
 - Affordances - not limited by geography, access/isolation, allows minority viewpoint to express themselves, personal identity/confidence
@@ -188,6 +189,13 @@ Virtual
 - can you find who did the work?
 - tracing origins
 - give credit to those who contribute, annotations
+- Gamification - for gold stars vs. $$
+- micro pasts, good community building but not getting around payment
+- Beth Mobinski
+- interesting mostly women talking about labour in DH, engage with it lead by women
+- serious on ATM - women
+- important to foreground the DX project
+- gendered labour
 ### Formal network analysis - Shawn
 - network structures and what they do to things, 
 - well connected pages - more likely to be good, SEO in part based on this, not # of likes but well connected to well connected
@@ -196,3 +204,5 @@ Virtual
 - one mode vs two mode statistics - categorical difference, assumption, need same vs. different entities
 ### Other
 - LyreBird - Radio Lab,
+## DX-Project
+- outlines and drafts into pressbooks
