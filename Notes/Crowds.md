@@ -125,3 +125,46 @@ or a sense of "otherness" as need be.
 - contrast 'volunteer' contributors from Wiki with low paid groups 
 - relationship between owners of platforms and content creators, the risk/costs being taken on are different
 -
+
+## Class Notes
+- Erving Goffman's presentation of self - virtual space - actors to meet in time, no copresence required
+- FB need real name - use of other identities online
+- tressy mcmillan cottam, 
+- Community:personal, intentional engagement, common interest/shared values, self identified, group label impact how they see themselves, demographic label/imposed (control)
+  - includes things like "ethnic" communities, where a sense of homogenity is implied
+- Crowds: less personal, mob mentality, temporary, self-serving ind in a group, negative, dog pile
+- Alternative : Network (less implied positive connections), 
+### Trad vs. Virtual Communities Digital Virtual Community
+Physical
+- Limitations - geographic location, social community 'group think', stereotype
+- Affordances - face-to-face, emotional expression, know is human
+Virtual
+- Limitations - non-humans, third actor (tech), quality of engagement dependant on platform, accessibility?, trolls, priveldge a part, digital literacy, developped by 'white dudes on the internet'
+- Affordances - not limited by geography, access/isolation, allows minority viewpoint to express themselves, personal identity/confidence
+### Crowsourcing Projects
+- Waze - carpool options?
+- Encyclopedia of Life - all 1.9 million species, description 
+- Wikipedia - more contributors, strong articles, starting point, vandalism not as common as some think, obvious rather than hidden
+- Wiki Stream?
+- Lying about the past - propeganda for past, last American Pirate/historical hoax 99% true, series of fake posts, 
+- Freedoms sacrificed in a system, violations and rules, can stay if not persistant
+- evolution of heavy metal umlaut, rock dots, 
+- copyright of 1911 britannica over and wiki pulled it in at the start
+- structure of wiki came out of negotiated edit wars, tables of contents, headings, 
+- Durkheim - social facts - reveals beleifs and values, 
+- revealing public interest, collective memory, 
+- Kate Middleton's dress - males wanted to delete it, various weapons in others, dress more interest in public, 
+### Misperception and Rumor Communities
+- easy to share information, fake news, echo chambers, attract people, information received agreed,
+- Chris Schaffer - world gone sidewise, 'fake news', 
+- Mike Caulfeild, web-fact checking for students, research institue, building resources informed digital literacy
+- posts things, like pizzagate - how to debunk, how do you read it, follow it backwards, 
+- what can be done? break networks
+- not nec instituitons that are credible but ways to confirm credibility, 
+### Formal network analysis
+- network structures and what they do to things, 
+- well connected pages - more likely to be good, SEO in part based on this, not # of likes but well connected to well connected
+- signal of value, high betweeness centrality = Google
+- Facebook - can get strong interlinkages, some other links, triadic closure, closes possibilites for other knowledge?, 'weak ties' - in career searches is best, triadic eliminates this, meta networks, 
+- one mode vs two mode statistics - categorical difference, assumption, need same vs. different entities
+- 
