@@ -71,3 +71,4 @@
 - lower standards of engagement - respoonsability, ethical in posting/engaging,
 - design flaws affeccting beyond to our expectations of engagement.
 - talk about the web as an other space, but not necessarily the case, it overlays our culture
+- documenting the now
