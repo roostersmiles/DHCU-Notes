@@ -68,5 +68,5 @@
 ### Social Actors
 - botometer - identifies bots
 - harry frankfurt - on bullshit
+- lower standards of engagement - respoonsability, ethical in posting/engaging,
 - 
-
