@@ -52,5 +52,21 @@
 - Can defend some, on margins not same respect, hierarchy within religious groups
 - Ethics of companies, what brings revenue
 - law enforcement using facial rec and sm to identify activists
+### Value Making
+- can engage with academics and public, bridges some of the gap,
+- culture scene
+- relationship between, what is important, polite
+- white civility, or respectful listening not visible online
+- sometimes not your place to speak, respectful listening,
+- how to do network for events - gung ho, meet ppl, get it out there, no discussion at any level
+- engage with sm as branding
+- reproduce subjectivity role, how do you do this?
+- knowledge production - value/legitimize, 
+- public historians - pros and academia - how to share or surrendor authority, stamping on research
+- alt-metrics - academic or others, papers shared via social media
+- Truth-decay, increased agency, lack of trust in experts
+### Social Actors
+- botometer - identifies bots
+- harry frankfurt - on bullshit
 - 
 
