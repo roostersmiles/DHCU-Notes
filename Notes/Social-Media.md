@@ -1,0 +1,56 @@
+## In-Class Notes
+- Speaker Series - Digital series - social media application, mock of conversation
+- Defining social media - platform for community, creating/sharing content, interactions with others (interests, IRL), sometimes strangers, some geographic closeness, personal networks,
+- social responsability
+- identify construction / validation
+- non-human actors, discussing bots - engaging with them can lead to shut down
+- entertainment, time consuming, 
+- relationships between algorithms and networks
+### Tool for democracy
+- raise engagment - black live matter, online engagement
+- challenges dominent narratives, can it facilitate change?
+- platforms build awareness, but need a stronger base
+- alorithm use for moderation, what to show, notes
+- reproduced social noise, twitter 'official', recreate different ones based on context, 
+- intent by platform
+- built to be small bits of info to 'hindbrain', info and data vs knowledge
+- awareness as goal vs. the objective of information, 
+- Twitter conference/presentations
+- negative impact on conversation, 
+- gamergate - weaponization, what constitutes truth, 
+- mastadon - review differences from Twitter
+- how does it work in real world- not relying on sociologists/anthropologist, but coders striaght from college
+- network effects - marginalization, 
+- open to discussions you wouldn't have access to outside of academia
+- in-group vs out-group clustering
+- discourse more balance?
+- local instance, same things see it, her federated,
+- can build own mastadon - on github
+- attracts like-minded to like-minded
+- intent behind connection, on twitter do you connect with disagree/argue or to build your things, engage with re-confirm
+- shifts over time, different platform functions and interaction norms/trends
+### Surveillance
+- Twitter keeps phantom posts
+- giving up privacy for connectivity and interactivity
+- criminalization of your own privacy - avoiding posting changes pattern
+- STEAM - Orwell
+- skip desktop to mobile in some developping countries - can pick up alot more data from smart phones
+- "good consumer" - playing
+- black mirror episode - score individuals, job applications and dating sites, similar weight to credit score
+- platofrm intersect with human personalities, ie. "difficult customer"
+- concern about gov monitoring but less businesses?
+- digital redlining for things like airline tickets - uses name, geographic area, 
+- hard coded -can't intergogate individual, only with experiments
+- maybe non human monitoring
+- commodify everything - don't even know
+- how long can you go with sharing no information
+- privacy badge or ghostery add-ons
+### Social responsability
+- Media companies different in some way for legal than Facebook
+- Big platforms block individuals from using their spaces, apply rules to certian people, freedom of speech
+- Twitter - trump no violating? 
+- Can defend some, on margins not same respect, hierarchy within religious groups
+- Ethics of companies, what brings revenue
+- law enforcement using facial rec and sm to identify activists
+- 
+
