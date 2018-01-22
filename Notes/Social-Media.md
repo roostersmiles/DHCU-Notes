@@ -69,4 +69,4 @@
 - botometer - identifies bots
 - harry frankfurt - on bullshit
 - lower standards of engagement - respoonsability, ethical in posting/engaging,
-- 
+- design flaws affeccting beyond to our expectations of engagement.
