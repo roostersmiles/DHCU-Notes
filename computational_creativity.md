@@ -23,6 +23,11 @@
 - perhaps can open on other analysis, different/new,
 - not just disipline but objectives, what is the value?
 - possibility of silence as music, can program to incorporate silence but needs to consider sound and notes. 
-- 
+- not creating new mediums, following pre-existing patterns, everything a connection to other ideas
+- remixing history - what does it mean?
+
+- jobs in danger are things that are rule-based, like tax accountancy, software
+- pull people in only when "outside" the norm, to reinterpret them or follow along
+- law similarly, medicine
 
 - William morris
