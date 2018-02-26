@@ -30,4 +30,7 @@
 - pull people in only when "outside" the norm, to reinterpret them or follow along
 - law similarly, medicine
 
+
+- markov chains, reformat as tracery, use chain within madlibs, interesting
+- 
 - William morris
