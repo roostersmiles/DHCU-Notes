@@ -1,3 +1,17 @@
 ## Lecutre Notes
-
-
+- definitions of publishing
+- Publish - disseminating information
+- become an authority, weakens positions those who are authorities, engaged in different ways in discourse
+-other publishing network vs. process with apublisher, websites, small press,
+- different methods of going about it. 
+- Academic work different processes. 
+- question credibility and biases
+- filter before publiscation, now publish then filter - order has adjusted
+- range of rights to retain over your own work,
+- how to get published? the fine print, contracting etc...
+- filter through 'fine print' of getting work out there, what happens after, unpaid labour complicates things
+- connection to public humanities - definition of audience
+- BC Open text book - publishing in the open
+- anxeity around printing, anyone can do it
+- connection so social media and fake notes
+- 
