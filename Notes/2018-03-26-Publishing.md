@@ -23,4 +23,12 @@
 - reputation economy in academia related to publishing, purchase the name of journal, edit produce,40-50% off of you to take it 
 - critical consumers, if in X journal must be good
 - open publishing event- name behind, if trying to put it out there, reputation of journal itself - everything top notch, they own your work for ever
+- Shawn - embargo on digital version for 2 years, negoiating 
+- want to share digital copy with students, pulled out of it
+- digital would undermine sales
+- ROMEO - review of open sourced articles
+- archives - can keep a copy of it, lodge copies - get unique tracking to it, when it is cited get caught, findable not hidden
+- academia.edu - for profit
+- more you learn about it the more you realize that you will loose control of your own work. 
+- technically, depending how we define publishing - posted to public - "publishing"
 - 
