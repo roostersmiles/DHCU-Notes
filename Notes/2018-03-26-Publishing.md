@@ -15,3 +15,12 @@
 - anxeity around printing, anyone can do it
 - connection so social media and fake notes
 - 
+- middleground
+- transcribe bantham - tried to get scholars to make sense of it
+- journals and capitalism - couple in planned obsolescence, university publishing houses, how much $$ they make, doesnt have to be this way. More like a business - could transform structure to have uni invest into it, rather than depend on sales
+- business model by crowd funding, content creators to lone wolf it - less middle men
+- don't phsycially have it - can someone take it away from you, in a sense have it everywhere
+- reputation economy in academia related to publishing, purchase the name of journal, edit produce,40-50% off of you to take it 
+- critical consumers, if in X journal must be good
+- open publishing event- name behind, if trying to put it out there, reputation of journal itself - everything top notch, they own your work for ever
+- 
