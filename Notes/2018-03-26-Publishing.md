@@ -35,4 +35,26 @@
 - same platform for a book
 - ability to go back and edit
 -- interesting the discussion of the shift of tech in process of writing even - notes and organisation and essential need to start with more organised research before typing compared to the ability to build and edit recursively
+- reader is the least important person in this system
+trying to plot it out can be useful
+- conference on data publishing and final article - raw or cooked data - amazing the push back on idea of sharing the data, which quarters it was coming from. 
+- if <60 - precariously employed more interested in open data and publishing rather than others
+- closed data - pay for with data mortgages, only if you share mine, closed-linked data? - computer applications in archeology conference (40 years), senior group of archeology - GIS was the thing - computation and data you hold on to, others might do something to it
+- Grad student - NDA - not publish using data with full knowledge of group
+- metho and data - needed for replicability - what value does publisher add, 
+- other models available -trying to pretend don't exist, can get people to do it for free
+- posibility - open peer review take away power 
+- peer review - get an e-mail saying we have this paper, please review and give someone else otherwise, no reward
+- anonymity - collect gossi[/settle scores]
+- women use first name rather than inital and last name
+- increasingly active reader - contrast with rap genious or hypothesis fosters
+- could conceive of online annotations as publishing.
+- Self-publishing - novels and other things, even academically - rigourus process - months to do.
+- not the same as other examples - Kindle and E-books think it has been mediated but could finish it in five minutes
+- online journals overhead is cheaper
+- scarcity of knowledge - with print - not justify the price use production as a reason
+- cost per book - scarcity previous but now less
+- imperial press - did give a good copy editor and marketing - historian's macroscope
+- fan fiction - 
+hypertext - hyperguard
 - 
