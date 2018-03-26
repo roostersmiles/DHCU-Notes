@@ -31,4 +31,8 @@
 - academia.edu - for profit
 - more you learn about it the more you realize that you will loose control of your own work. 
 - technically, depending how we define publishing - posted to public - "publishing"
+- public facing draft- unsettles people to have partially finished
+- same platform for a book
+- ability to go back and edit
+-- interesting the discussion of the shift of tech in process of writing even - notes and organisation and essential need to start with more organised research before typing compared to the ability to build and edit recursively
 - 
