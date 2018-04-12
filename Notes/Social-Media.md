@@ -1,4 +1,63 @@
-## In-Class Notes
+# Annotations
+## roostersmiles, 1/20/2018 10:31:41 PM
+
+I agree as well, it is important that academia be able to perform this role, however political climate and financial pressures might not always mean it is possible. A part of it is also fear from the institution in some cases, when they may be afraid their funding would be impacted by challenging positions/pieces. 
+I would be curious to see if anyone has reviewed this in a Canadian context and what the experience is at Canadian institutions. 
+
+## roostersmiles, 1/20/2018 9:38:07 PM
+
+This is why it is so important that we foster dialogue with individuals with different perspectives and backgrounds.
+
+## roostersmiles, 1/20/2018 9:31:17 PM
+
+Do the equalizing factors of technology push ideological shifts in some groups' perspectives on roles and inequalities within society, is it supporting a sentiment that was already present and facilitating the spread of ideas?
+
+## roostersmiles, 1/20/2018 7:39:17 PM
+
+Interesting: a tight network
+
+## roostersmiles, 1/20/2018 7:37:07 PM
+
+It is difficult to filter out noise, this is why a manual review is so important.
+
+## roostersmiles, 1/20/2018 7:35:53 PM
+
+A network of bots retweeting makes it difficult to distinguish 'real' data from fake. I like that they have developed a way to identify them. However, while the content they are posting is not a 'real' position on an issue in that it represents an individual, it is still being viewed and read by others, informing their opinions and leading to further polarization and influence. 
+
+## roostersmiles, 1/20/2018 6:47:47 PM
+
+### social media, methods
+
+Cool, using existing models to extend and apply to existing models. 
+
+## roostersmiles, 1/20/2018 6:25:23 PM
+
+Like a proximity index?
+
+## roostersmiles, 1/20/2018 6:14:33 PM
+
+They started well before the election, interesting how their study of propaganda evolved.
+
+## roostersmiles, 1/20/2018 5:58:41 PM
+
+This is an important distinction. They are connected by the information that they are sharing but the sources are not all linked to the cause, they pick and choose what facts back them up.
+
+## roostersmiles, 1/20/2018 5:25:10 PM
+
+Cool! I had never thought about including the domains for links within my searches. Excited to try this.
+
+## roostersmiles, 1/20/2018 5:19:33 PM
+
+How did they identify the networks? Search based on a topic analysis.
+
+## roostersmiles, 1/20/2018 5:15:04 PM
+
+I like that this is a live update, interesting to see how it is shared. I love the idea of a public live monitor. I tend to do small scans on issues for clients that stay private.
+
+## roostersmiles, 1/20/2018 5:12:54 PM
+
+I'd really like to see the data from before the election and over time. Interesting to see that it has continued. 
+# In-Class Notes
 - Speaker Series - Digital series - social media application, mock of conversation
 - Defining social media - platform for community, creating/sharing content, interactions with others (interests, IRL), sometimes strangers, some geographic closeness, personal networks,
 - social responsability
